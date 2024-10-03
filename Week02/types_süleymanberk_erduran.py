@@ -1,4 +1,4 @@
-my_Int=1
-my_Float=2.0
-my_Bool=0
-my_Complex= (3i+7j)
+my_int = 1
+my_float = 2.0
+my_bool = 0
+my_complex = ( 3i + 7j )
